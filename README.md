@@ -1,5 +1,9 @@
 # react-rock-paper-scissors
 
+## Demo 
+
+[click here for the demo](https://codesandbox.io/s/github/zilahir/react-rock-paper-scissors)
+
 This is the React version of `Rock-Paper-Scissors` game written by [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg/videos). 
 
 I have decided to re-create the project using `React`. 
